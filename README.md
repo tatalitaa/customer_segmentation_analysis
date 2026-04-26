@@ -53,10 +53,10 @@ It includes information such as:
    - Customers segmented into quartiles (1–4)
    - Combined into RFM Score (e.g., 444 = best customers)
 6. Customer Segmentation
-🟢 Best Customer
-🔵 Loyal Customer
-🟡 Big Spender
-⚪ Regular Customer
+- 🔵 Big Spender 
+- 🟠 Best Customer 
+- 🟢 Regular Customer
+- 🔴 Loyal Customer 
 
 ## Key Results
 - Customer spending is highly skewed → a small group contributes most of the revenue
