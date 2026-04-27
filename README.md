@@ -68,21 +68,21 @@ It includes information such as:
 
 ## Visualizations
 ### 1. Customer Segmentation Distribution
-
+<img width="866" height="533" alt="Customer Segmentation Distribution" src="https://github.com/user-attachments/assets/38a5f1ce-9dc6-4386-99c9-c3a8d1f226a7" />
 
 **Insight:** Most customers fall into the *Regular* segment, while a smaller group drives most revenue.
 
 ---
 
 ### 2. Frequency vs Revenue
-<img width="856" height="554" alt="download (1)" src="https://github.com/user-attachments/assets/ed5771cc-e921-421e-958b-6e3a321bcb0c" />
+<img width="857" height="557" alt="Frequency vs Revenue" src="https://github.com/user-attachments/assets/1d8410c1-b551-401d-8ade-2e5008700715" />
 
 **Insight:** Higher purchase frequency generally leads to higher revenue.
 
 ---
 
 ### 3. Revenue by Segment
-<img width="856" height="554" alt="download (2)" src="https://github.com/user-attachments/assets/189aff31-c155-4783-87fb-02253e9a8ecc" />
+<img width="857" height="557" alt="Revenue by Segment" src="https://github.com/user-attachments/assets/313e4f73-d1c4-4206-ada5-7f1221bf89e2" />
 
 **Insight:** Best Customers dominate revenue contribution across all segments.
 
@@ -107,6 +107,6 @@ It includes information such as:
 ## Conclusion
 RFM segmentation provides a simple yet powerful approach to understanding customer behavior. By leveraging transactional data, businesses can implement targeted strategies to improve customer engagement and drive revenue growth.
 
-## 👩‍💻 Author
+## Author
 **Talita Sri Indrayuni**  
 Aspiring Data Analyst | Data Enthusiast 
